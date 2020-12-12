@@ -1,0 +1,14 @@
+.timer {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.field {
+  text-align: center;
+  border: 1px solid black;
+}
+.field > span {
+  display: block;
+}
